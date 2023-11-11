@@ -39,7 +39,7 @@ from keras.models import Model
 ```
 
 ## Results
-!Screencast from 2023-11-11 12-54-36.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/4c8df4a9-105f-4ab4-b214-13a8f6b0c5bf)
+[Screencast from 2023-11-11 12-54-36.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/4c8df4a9-105f-4ab4-b214-13a8f6b0c5bf)
 
 [Screencast from 2023-11-11 13-02-28.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/5af96e1c-a767-4162-b274-7bf77e7774a2)
 
