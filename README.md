@@ -39,8 +39,10 @@ from keras.models import Model
 ```
 
 ## Results
-![Screencast from 2023-11-11 12-54-36.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/4c8df4a9-105f-4ab4-b214-13a8f6b0c5bf)
-![Screencast from 2023-11-11 13-02-28.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/5af96e1c-a767-4162-b274-7bf77e7774a2)
-![Screencast from 2023-11-11 13-05-37.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/b73386bf-0642-4420-969a-2ae7f1a35f0e)
+!Screencast from 2023-11-11 12-54-36.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/4c8df4a9-105f-4ab4-b214-13a8f6b0c5bf)
+
+[Screencast from 2023-11-11 13-02-28.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/5af96e1c-a767-4162-b274-7bf77e7774a2)
+
+[Screencast from 2023-11-11 13-05-37.webm](https://github.com/dawn-mathew/Object-Tracking-DeepSORT-YOLO-v3/assets/150279674/b73386bf-0642-4420-969a-2ae7f1a35f0e)
 - The obtained results, while promising, exhibit areas for improvement. The tracking performance can be described as average, with instances of undetected targets and occasional tracking errors, which may impact overall accuracy. To enhance the tracking capabilities, future improvements could focus on refining object detection, optimizing hyperparameters, and exploring more advanced filtering and data association techniques. These refinements have the potential to elevate the system's accuracy and mitigate the issues observed during evaluation.
 
